@@ -38,3 +38,4 @@ MIN_PAUSE / MAX_PAUSE   // Minimum and maximum time between actions (ms)
 COFFEE_BREAK_EVERY      // Take a long break every X retweets
 COFFEE_BREAK_DURATION   // Duration of long break (ms)
 MAX_CONSECUTIVE_ERRORS  // Stop after X consecutive errors
+

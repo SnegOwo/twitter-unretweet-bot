@@ -1,7 +1,7 @@
 /**
- * twitter_deleter_v2_final_FINAL.js
+ * twitter_deleter_v2_final_FINAL.js (nah it's not the real name lmao)
  * // i made this to delete rts
- * // pls dont ban me twitter
+ * // pls don't do anything stupid and take breaks between deleting
  */
 
 var stuff = {
